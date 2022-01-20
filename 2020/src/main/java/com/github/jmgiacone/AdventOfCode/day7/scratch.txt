@@ -1,0 +1,5 @@
+light red bags contain 1 bright white bag, 2 muted yellow bags.
+light red bags contain 1 (1 shiny gold), 2 (2 shiny gold, 9 faded blue). Set: BW, MY
+light red bags contain 1 (1 (1 dark olive, 2 vibrant plum)), 2 (2 (1 dark olive, 2 vibrant plum)), 9 ())). Set: BW, MY, SG, FB
+light red bags contain 1 (1 (1 (3 faded blue, 4 dotted black)), 2 (5 faded blue, 6 dotted black))), 2 (2 (1 (3 faded blue, 4 dotted black), 2 (5 faded blue, 6 dotted black))), 9 ())). Set: BW, MY, SG, FB, DO, VP
+light red bags contain 1 (1 (1 (3 faded blue, 4 ()))), 2 (5 faded blue, 6 ())))), 2 (2 (1 (3 faded blue, 4 ())), 2 (5 faded blue, 6 ())))), 9 ())). Set: BW, MY, SG, FB, DO, VP, DB
